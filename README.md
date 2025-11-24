@@ -40,7 +40,7 @@ Plateforme événementielle construite pour gérer et présenter des événement
 
 ## <a name="tech-stack">⚙️ Stack Technique</a>
 
-- **[Cloudinary]** est une plateforme de gestion de médias cloud qui simplifie l'upload, le stockage, l'optimisation et la diffusion d'images et vidéos. Elle aide les développeurs à gérer les médias efficacement et à améliorer les performances des sites web.
+- **[Cloudinary](https://cloudinary.com/)** est une plateforme de gestion de médias cloud qui simplifie l'upload, le stockage, l'optimisation et la diffusion d'images et vidéos. Elle aide les développeurs à gérer les médias efficacement et à améliorer les performances des sites web.
 
 - **[MongoDB](https://www.mongodb.com)** est une base de données NoSQL flexible et orientée documents qui stocke les données au format JSON. Elle est idéale pour les applications modernes nécessitant une évolutivité, de hautes performances et une flexibilité de schéma.
 
