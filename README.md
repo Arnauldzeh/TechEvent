@@ -1,30 +1,3 @@
-<div align="center">
-  <br />
-    <a href="https://youtu.be/I1V9YWqRIeI" target="_blank">
-      <img src="public/readme/readme-hero.webp" alt="Bannière du projet">    
-    </a>
-  <br />
-
-  <div>
-<img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=Next.js&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white" />
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" /><br/>
-
-<img src="https://img.shields.io/badge/-Warp-000000?style=for-the-badge&logo=Warp&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-Cloudinary-002C73?style=for-the-badge&logo=Cloudinary&logoColor=white" />
-<img src="https://img.shields.io/badge/-PostHog-EB9D2A?style=for-the-badge&logo=PostHog&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-CodeRabbit-F88B83?style=for-the-badge&logo=CodeRabbit&logoColor=white" />
-
-  </div>
-
-  <h3 align="center">Plateforme TechEvent</h3>
-
-   <div align="center">
-     Construisez ce projet étape par étape avec notre tutoriel détaillé sur <a href="https://www.youtube.com/watch?v=XUkNR-JfHwo" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Rejoignez la famille JSM !
-    </div>
-</div>
-
 ## 📋 <a name="table">Table des Matières</a>
 
 1. ✨ [Introduction](#introduction)
