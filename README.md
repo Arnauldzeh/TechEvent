@@ -4,8 +4,6 @@
 2. ⚙️ [Stack Technique](#tech-stack)
 3. 🔋 [Fonctionnalités](#features)
 4. 🤸 [Démarrage Rapide](#quick-start)
-5. 🔗 [Ressources](#links)
-6. 🚀 [En Savoir Plus](#more)
 
 ## <a name="introduction">✨ Introduction</a>
 
